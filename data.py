@@ -11,3 +11,5 @@ user_body = {
 product_ids = {
     "ids": [1, 2, 3]
 }
+
+one_letter = "a"
