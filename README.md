@@ -12,6 +12,7 @@ Puedes instalar estos paquetes utilizando pip:
 
 pip install pytest requests
 
+
 ## Estructura de archivos
 - En el archivo configuration.py se encuentran los endpoints a usar
 - En el archivo sender_stand_request.py se encuentran funciones genericas 
