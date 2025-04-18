@@ -1,7 +1,7 @@
 # Pruebas para el parámetro firstName al crear un/a usuario/a en []
 ## By Juan Burgo, Sprint 7
 Este proyecto evalúa el comportamiento del parámetro `firstName` al crear un/a usuario/a en [nombre de la aplicación o servicio]. Las pruebas están diseñadas para asegurar que se manejen correctamente los valores de este parámetro según los requerimientos definidos.
-
+modificado el 17 de Abril de 2025
 ## Requisitos
 
 Para ejecutar las pruebas, necesitarás tener instalados los siguientes paquetes:
